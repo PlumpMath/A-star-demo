@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class ParsingCSV : MonoBehaviour {
 
-	public GameObject[5,] e;
+	public GameObject[,] e;
 	// Use this for initialization
 	void Start () {
 		
