@@ -1,4 +1,7 @@
-ProjectSettings/*
-Temp/*
-Library/*
-library/*
+/ProjectSettings/*
+/ProjectSettings
+/Temp/*
+/Temp
+/Library/**/**
+/Library/*
+/library/*
