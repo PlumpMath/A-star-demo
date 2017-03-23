@@ -453,7 +453,11 @@ PlayerSettings:
   XboxOnePersistentLocalStorageSize: 0
   vrEditorSettings: {}
   cloudServicesEnabled:
-    UNet: 1
+    Build: 0
+    Collab: 0
+    ErrorHub: 0
+    Hub: 0
+    UNet: 0
   cloudProjectId: 0319ffbf-b3e9-4714-97e4-c00b70879960
   projectName: A-start demo
   organizationId: malkoring
